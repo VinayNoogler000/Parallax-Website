@@ -15,15 +15,15 @@
 
 #img1_Box,
 #img4_Box {
-    background-image: url(/images/image1.png);
+    background-image: url(images/image1.png);
 }
 
 #img2_Box {
-    background-image: url(/images/image2.png);
+    background-image: url(images/image2.png);
 }
 
 #img3_Box {
-    background-image: url(/images/image3.png);
+    background-image: url(images/image3.png);
 }
 
 .img_Title {
